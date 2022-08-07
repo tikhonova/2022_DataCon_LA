@@ -21,18 +21,18 @@ Why LTV? This metric is a double-edged sword: you define it correctly, and it wi
 
 
 ### Sources
-http://brucehardie.com/papers/rfm_clv_2005-02-16.pdf
-http://www.brucehardie.com/papers/020/fader_et_al_mksc_10.pdf
-https://brucehardie.com/notes/004/
-https://www.youtube.com/watch?v=guj2gVEEx4s
-http://cdn.oreillystatic.com/en/assets/1/event/85/Case%20Study_%20What_s%20a%20Customer%20Worth_%20Presentation.pdf
-https://www.linkedin.com/pulse/customer-lifetime-value-ltv-part-3-common-mistakes-risks-reynolds/
-https://www.arcalea.com/blog/calculating-lifetime-value-ltv
-https://medium.com/tradecraft-traction/4-mistakes-to-avoid-when-calculating-ltv-1ade13f90ec9
-https://github.com/CamDavidsonPilon/lifetimes
-https://en.wikipedia.org/wiki/Buy_Till_you_Die
-https://www.business2community.com/customer-experience/4-ways-to-measure-the-lifetime-value-of-your-customers-02338898
-https://blog.fusebill.com/2014/08/12/customer-lifetime-value
-http://brucehardie.com/papers/018/fader_et_al_mksc_05.pdf
-https://lifelines.readthedocs.io/en/latest/Survival%20Analysis%20intro.html
-https://boostedml.com/2018/11/when-should-you-use-non-parametric-parametric-and-semi-parametric-survival-analysis.html
+- http://brucehardie.com/papers/rfm_clv_2005-02-16.pdf
+- http://www.brucehardie.com/papers/020/fader_et_al_mksc_10.pdf
+- https://brucehardie.com/notes/004/
+- https://www.youtube.com/watch?v=guj2gVEEx4s
+- http://cdn.oreillystatic.com/en/assets/1/event/85/Case%20Study_%20What_s%20a%20Customer%20Worth_%20Presentation.pdf
+- https://www.linkedin.com/pulse/customer-lifetime-value-ltv-part-3-common-mistakes-risks-reynolds/
+- https://www.arcalea.com/blog/calculating-lifetime-value-ltv
+- https://medium.com/tradecraft-traction/4-mistakes-to-avoid-when-calculating-ltv-1ade13f90ec9
+- https://github.com/CamDavidsonPilon/lifetimes
+- https://en.wikipedia.org/wiki/Buy_Till_you_Die
+- https://www.business2community.com/customer-experience/4-ways-to-measure-the-lifetime-value-of-your-customers-02338898
+- https://blog.fusebill.com/2014/08/12/customer-lifetime-value
+- http://brucehardie.com/papers/018/fader_et_al_mksc_05.pdf
+- https://lifelines.readthedocs.io/en/latest/Survival%20Analysis%20intro.html
+- https://boostedml.com/2018/11/when-should-you-use-non-parametric-parametric-and-semi-parametric-survival-analysis.html
