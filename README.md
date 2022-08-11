@@ -25,7 +25,7 @@ Why LTV? This metric is a double-edged sword: you define it correctly, and it wi
 - http://www.brucehardie.com/papers/020/fader_et_al_mksc_10.pdf
 - https://brucehardie.com/notes/004/ #BG/NBD workbook
 - https://www.youtube.com/watch?v=guj2gVEEx4s 
-- https://github.com/CamDavidsonPilon/lifetimes #check 'More Information' for ETSY talk
+- https://github.com/CamDavidsonPilon/lifetimes #check 'More Information' for ETSY deck
 - https://www.linkedin.com/pulse/customer-lifetime-value-ltv-part-3-common-mistakes-risks-reynolds/
 - https://www.arcalea.com/blog/calculating-lifetime-value-ltv
 - https://medium.com/tradecraft-traction/4-mistakes-to-avoid-when-calculating-ltv-1ade13f90ec9
