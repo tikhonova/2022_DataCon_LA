@@ -1,7 +1,7 @@
 ![dataconla](https://user-images.githubusercontent.com/41370639/184544271-fde8fac2-45be-4a85-a6f1-849b6a3c92cb.png)
 
 # Recording
-[Link to recording](https://i.imgur.com/w2E5Gen.jpg)
+[Link to recording](https://www.youtube.com/watch?v=9nz9HEu6FgU)
 # Customer Lifetime Value's review of a lifetime
 
 Why LTV? This metric is a double-edged sword: you define it correctly, and it will help cut through the noise; make a mistake, and it may instead cut into your profits. The goal of the DataCon LA overview is to serve as your all-encompassing guide, alerting you of some of the most common pitfalls and equipping you with some of the least known approaches.
